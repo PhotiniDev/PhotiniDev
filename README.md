@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhotiniDev
 - 👀 I’m interested in ... Game Development
 - 🌱 I’m currently learning ... C# in Unity
-- 💞️ I’m looking to collaborate on ... Future Projects
+- 💞️ I’m looking to collaborate on ... Future projects for the betterment of our world
 - 📫 How to reach me ... luke.hayne@hotmail.co.uk
 
 <!---
